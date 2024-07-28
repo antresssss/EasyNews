@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/71e03827-0998-429d-9162-1905ad4866b3
     pip install -r requirements.txt
     ```
 
-3. Create a `.env` file in the root directory and add your Google API key(assuming you have generated one, if not search up on how to create one):
+3. Create a `.env` file in the root directory and add your Google API key(assuming you have generated one, if not then search up on how to create one):
 
     ```env
     GOOGLE_API_KEY=your_google_api_key
