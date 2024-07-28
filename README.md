@@ -13,9 +13,8 @@
 - **Data Processing with Pathway:** Uses Pathway to store and process the news data.
 - **User Interface with Streamlit:** Provides an easy-to-use interface built with Streamlit.
 ## Demo
-<video width="600" controls>
-  <source src="/EasyNewsDemo.webm" type="video/webm">
-</video>
+
+https://github.com/user-attachments/assets/71e03827-0998-429d-9162-1905ad4866b3
 
 ## Technologies Used
 
