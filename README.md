@@ -1,6 +1,6 @@
 # Easy News
 
-📰 Easy News is a web application that leverages the power of RAG (Retrieval-Augmented Generation),Utilizing Google’s Gemini Pro as a Language Model (LLM), prompt engineering, Pathway module, LangChain, and Streamlit to provide users with the latest news on any given topic. The application uses Google Generative AI to generate news content and Pathway to process and display the news data.
+📰 Easy News is a web application that leverages the power of RAG (Retrieval-Augmented Generation),Utilizing Google’s Gemini Pro as a Language Model (LLM), prompt engineering,the Pathway module(a Python data processing framework for analytics and AI pipelines over data streams), LangChain, and Streamlit to provide users with the latest news on any given topic. The application uses Google Generative AI to generate news content and Pathway to process and display the news data in a tabular format.
 
 ## Features
 
@@ -12,6 +12,7 @@
 - **JSON Conversion:** Converts news content into a structured JSON format.
 - **Data Processing with Pathway:** Uses Pathway to store and process the news data.
 - **User Interface with Streamlit:** Provides an easy-to-use interface built with Streamlit.
+
 ## Demo
 
 https://github.com/user-attachments/assets/71e03827-0998-429d-9162-1905ad4866b3
@@ -23,7 +24,6 @@ https://github.com/user-attachments/assets/71e03827-0998-429d-9162-1905ad4866b3
 - **Prompt Engineering:** Carefully crafted prompts ensure the generation of relevant and accurate news content.
 - **Pathway:** Used for data processing and creating a schema for the news data.
 - **LangChain:** Facilitates interaction with the large language models.
-- **Streamlit:** Provides a user-friendly interface for interaction.
 
 ## Getting Started
 
@@ -40,8 +40,8 @@ https://github.com/user-attachments/assets/71e03827-0998-429d-9162-1905ad4866b3
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/easy-news.git
-    cd easy-news
+    git clone https://github.com/antresssss/EasyNews
+    cd EasyNews
     ```
 
 2. Install the required packages:
@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/71e03827-0998-429d-9162-1905ad4866b3
     pip install -r requirements.txt
     ```
 
-3. Create a `.env` file in the root directory and add your Google API key:
+3. Create a `.env` file in the root directory and add your Google API key(assuming you have generated one, if not search up on how to create one):
 
     ```env
     GOOGLE_API_KEY=your_google_api_key
@@ -71,3 +71,7 @@ https://github.com/user-attachments/assets/71e03827-0998-429d-9162-1905ad4866b3
 4. The latest news on the entered topic will be displayed along with a data table.
 
 5. You can also ask questions related to the news or if you are curious about just anything by entering a question in the text input field and clicking on "Ask Question".
+
+## end notes
+
+this is a simple app I made during the PathwayXGenAI bootcamp , I am grateful for the lessons and the task or opportunity to be able to create an app from it . Thank you for reading this far :D
