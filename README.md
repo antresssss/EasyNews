@@ -71,4 +71,4 @@
 
 4. The latest news on the entered topic will be displayed along with a data table.
 
-5. You can also ask questions related to the news by entering a question in the text input field and clicking on "Ask Question".
+5. You can also ask questions related to the news or if you are curious about just anything by entering a question in the text input field and clicking on "Ask Question".
