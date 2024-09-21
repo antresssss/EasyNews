@@ -2,6 +2,8 @@
 
 📰 Easy News is a web application that leverages the power of RAG (Retrieval-Augmented Generation),Utilizing Google’s Gemini Pro as a Language Model (LLM), prompt engineering,the Pathway module(a Python data processing framework for analytics and AI pipelines over data streams), LangChain, and Streamlit to provide users with the latest news on any given topic. The application uses Google Generative AI to generate news content and Pathway to process and display the news data in a tabular format.
 
+**there are two files app.py and app_rework.py,latter is the one which utilizes the News API**
+
 ## Features
 
 - **Fact-checked News:** Provides fact-checked, accurate, and reliable news.
@@ -15,7 +17,7 @@
 
 ## Demo
 
-https://github.com/user-attachments/assets/71e03827-0998-429d-9162-1905ad4866b3
+https://github.com/user-attachments/assets/e42f7a8e-522c-4914-b7ed-d30959c5f7fd
 
 ## Technologies Used
 
