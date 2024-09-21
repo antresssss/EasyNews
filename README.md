@@ -20,6 +20,7 @@ https://github.com/user-attachments/assets/71e03827-0998-429d-9162-1905ad4866b3
 ## Technologies Used
 
 - **RAG (Retrieval-Augmented Generation):** Combines retrieval of information with the generation capabilities of large language models to provide more accurate and reliable responses.
+- **News API:** News API is a simple, easy-to-use REST API that returns JSON search results for current and historic news articles published by over 150,000 worldwide sources.
 - **LLMs (Large Language Models):** Uses Google's Generative AI model, gemini-pro, to generate news content.
 - **Prompt Engineering:** Carefully crafted prompts ensure the generation of relevant and accurate news content.
 - **Pathway:** Used for data processing and creating a schema for the news data.
